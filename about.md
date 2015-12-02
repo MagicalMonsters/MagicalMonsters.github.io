@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 #### Team:  
-Mehran Einakchi
+Mehran Einakchi  
 Behdad Bakhshinategh
 
 
