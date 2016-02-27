@@ -9,4 +9,4 @@ Mehran Einakchi
 Behdad Bakhshinategh
 
 
-[magicalmonstersco@gamil.com](mailto:magicalmonstersco@gamil.com)
+[magicalmonstersco@gmail.com](mailto:magicalmonstersco@gmail.com)
