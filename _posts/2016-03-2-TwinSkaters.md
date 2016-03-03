@@ -1,8 +1,11 @@
-
 ---
 layout: post
-title: Magical Monsters Begins
+title: TwinSkaters (prototype)
 ---
 
-Magical Monsters is a small team, which makes small games for the sake of fun.  
-We will keep track of what we do in this blog. 
+This is the second prototype we made.
+
+Downloads:  
+[Windows version]({{ site.url }}/downloads/win/Twinskaters.zip "Swirl(windows)")  
+
+
