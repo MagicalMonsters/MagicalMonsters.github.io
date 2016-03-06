@@ -13,6 +13,6 @@ Hope you enjoy it ;)
 
 ![TwinSkaters screen shot]({{ site.url }}/images/ts.png "TwinSkaters")
 
-Downloads:
+Downloads:  
 [Mac version]({{ site.url }}/downloads/mac/TwinSkaters.zip "TwinStakers(mac)")  
 [Windows version]({{ site.url }}/downloads/win/TwinSkaters.zip "TwinStakers(windows)")  
