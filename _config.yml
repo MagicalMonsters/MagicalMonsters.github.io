@@ -75,3 +75,6 @@ exclude:
     - LICENSE
     - README.md
     - CNAME
+
+# for setting read more manually
+excerpt_separator: <!--more-->
