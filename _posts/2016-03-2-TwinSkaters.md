@@ -7,13 +7,13 @@ For our second game we came up with a vertically scrolling game. We are still us
 
 As a player, you are in control of two skateboards. Left and right arrow keys will shift both skateboards to the respected direction, up moves the skateboards further apart and down makes them closer to each other.
 
+<img src="http://magicalmonsters.github.io/images/ts.png" alt="TwinSkaters screen shot" />
+
 <!--more-->
 
 The game will be over when you hit an obstacle, and you can collect stars to get a higher score which will be calculated based on how long you survived in the game as well as the number of stars you have collected.
 
 Hope you enjoy it ;)
-
-![TwinSkaters screen shot]({{ site.url }}/images/ts.png "TwinSkaters")
 
 Downloads:
 
